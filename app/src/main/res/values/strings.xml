@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CST2335_FinalProject</string>
+    <string name="deezer_searchhere">Enter artist name</string>
+    <string name="deezer_searchButton">Search</string>
+    <string name="deezeropen">Open</string>
+    <string name="deezerclose">Close</string>
+    <string name="deezer_favourites">Favourites</string>
+    <string name="deezer_about">About this project</string>
+    <string name="deezer_instructions">How to use</string>
+    <string name="deezer_about_api">About API</string>
+    <string name="deezer_donate">Donate</string>
+    <string name="main_final_project">FINAL PROJECT</string>
+    <string name="deezer_hidebutton">Close</string>
+    <string name="deezer_herearedetails">Here are some extra details: </string>
+    <string name="deezer_selectedrow">Selected row is: </string>
+    <string name="deezer_songtitle">Song title: </string>
+    <string name="deezer_songduration">Song duration: </string>
+    <string name="deezer_albumtitle">Album title: </string>
+    <string name="deezer_albumcover">Album cover: </string>
+    <string name="deezer_credits">This is the Deezer activity, written by Harshjeet Parmar</string>
+    <string name="deezer_addtofavs">Add to favourites</string>
+    <string name="deezer_geoclickmsg">You clicked on GeoActivity</string>
+    <string name="deezer_lyricsclickmsg">You clicked on LyricsActivity</string>
+    <string name="deezer_soccerclickmsg">You clicked on SoccerActivity</string>
+    <string name="deezer_instructiondetails">To search: \n Type an artist or band name and click on the search button \n To favourite a song: \n Long click on the song and click favourite \n\n To open favourite songs: \n Click the favourites button at the bottom</string>
+    <string name="deezer_instructionstitle">Instructions for Deezer Activity: </string>
+    <string name="deezer_deezerclickmsg">You clicked Deezer instructions</string>
+    <string name="deezer_deezerapiclickmsg">You clicked deezer api</string>
+    <string name="deezer_deezerdonateclickmsg">You clicked deezer donate</string>
+    <string name="deezer_donateamountmsg">How much would you like to donate?</string>
+    <string name="deezer_thankyoumsg">Thanks!</string>
+    <string name="deezer_cancelbutton">Cancel</string>
+    <string name="deezer_waitmsg">The song list is loading</string>
+    <string name="deezer_resultstitle">Showing results for </string>
+    <string name="deezer_deletebutton">Delete song</string>
+    <string name="deezer_favstitle">Your Favourites:</string>
+
+</resources>

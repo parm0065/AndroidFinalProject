@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CST2335_FinalProject</string>
+    <string name="deezer_searchhere">Entrez le nom de l\'artiste</string>
+    <string name="deezer_searchButton">chercher</string>
+    <string name="deezeropen">ouvert</string>
+    <string name="deezerclose">fermer</string>
+    <string name="deezer_favourites">favoris</string>
+    <string name="deezer_about">A propos de ce projet</string>
+    <string name="deezer_instructions">comment utiliser</string>
+    <string name="deezer_about_api">au sujet de API</string>
+    <string name="deezer_donate">donner</string>
+    <string name="main_final_project">PROJET FINAL</string>
+    <string name="deezer_hidebutton">proche</string>
+    <string name="deezer_herearedetails">Voici quelques détails supplémentaires: </string>
+    <string name="deezer_selectedrow">La ligne sélectionnée est </string>
+    <string name="deezer_songtitle">Titre de la chanson: </string>
+    <string name="deezer_songduration">Durée de la chanson: </string>
+    <string name="deezer_albumtitle">Titre de l\'album: </string>
+    <string name="deezer_albumcover">Couverture de l\'album: </string>
+    <string name="deezer_credits">Voici l\'activité Deezer, écrite par Justin Black</string>
+    <string name="deezer_addtofavs">Ajouter aux Favoris</string>
+    <string name="deezer_geoclickmsg">Vous avez cliqué sur GeoActivity</string>
+    <string name="deezer_lyricsclickmsg">Vous avez cliqué sur LyricsActivity</string>
+    <string name="deezer_soccerclickmsg">Vous avez cliqué sur SoccerActivity</string>
+    <string name="deezer_instructiondetails">Pour rechercher: \n Tapez un nom d\'artiste ou de groupe et appuyez sur Rechercher \n \n Pour ajouter une chanson aux favoris: \n Cliquez longuement sur la chanson et cliquez sur favorite \n \n Pour voir vos chansons préférées: \n Cliquez sur le bouton Favoris sur le bas de la page principale</string>
+    <string name="deezer_instructionstitle">Instructions pour l\'activité Deezer: </string>
+    <string name="deezer_deezerclickmsg">Vous avez cliqué sur Deezer instructions</string>
+    <string name="deezer_deezerapiclickmsg">Vous avez cliqué sur deezerapi</string>
+    <string name="deezer_deezerdonateclickmsg">Vous avez cliqué sur deezerdonate</string>
+    <string name="deezer_donateamountmsg">Combien voudrais-tu donner?</string>
+    <string name="deezer_thankyoumsg">Merci!</string>
+    <string name="deezer_cancelbutton">Annuler</string>
+    <string name="deezer_waitmsg">Veuillez patienter, récupération de votre liste de chansons</string>
+    <string name="deezer_resultstitle">Résultats pour </string>
+    <string name="deezer_deletebutton">Effacer la chanson</string>
+    <string name="deezer_favstitle">Vos favoris:</string>
+
+
+</resources>

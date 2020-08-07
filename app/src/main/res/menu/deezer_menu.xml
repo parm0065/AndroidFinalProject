@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/geoChoice1"
+        android:title="Geo"
+        android:icon="@drawable/geo"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>  <!-- This uses showAsAction=always, so look at icon= parameter -->
+
+    <item android:id="@+id/lyricsChoice2"
+        android:icon="@drawable/lyrics"
+        android:orderInCategory="75"
+        app:showAsAction="always"
+        android:title="lyrics"/>
+
+    <item android:id="@+id/soccerChoice3"
+        android:icon="@drawable/soccer"
+        android:orderInCategory="50"
+        app:showAsAction="always"
+        android:title="soccer" />
+
+    <item android:id="@+id/aboutProject"
+        android:title="@string/deezer_about"
+        app:showAsAction="never"
+        android:orderInCategory="400"/> <!-- This uses showAsAction=never, so look at title= parameter -->
+
+</menu>
